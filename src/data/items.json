@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "imgUrl": "/images/store-iphone15pro.png"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15",
+    "price": 799,
+    "imgUrl": "/images/store-iphone15.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 9",
+    "price": 399,
+    "imgUrl": "/images/store-watch-s9.png"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Ultra 2",
+    "price": 799,
+    "imgUrl": "/images/store-w-ul2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro 11-inch",
+    "price": 799,
+    "imgUrl": "/images/store-ipadpro11.png"
+  },
+  {
+    "id": 6,
+    "name": "iPad Air",
+    "price": 599,
+    "imgUrl": "/images/store-ipadair.jpg"
+  },
+  {
+    "id": 7,
+    "name": "AirPods Pro (2nd generation)",
+    "price": 249,
+    "imgUrl": "/images/store-ap.jpg"
+  }
+]
