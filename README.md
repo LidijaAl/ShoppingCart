@@ -19,7 +19,7 @@
 ![](dist/images/Screenshot_1.png)
 
 ## Link
-- Live Site URL: [https://lidijamarninkovicshoppingcart.netlify.app](https://lidijamarninkovicshoppingcart.netlify.app) 
+- Live Site URL: [https://lm-shopping-cart.netlify.app/](https://lm-shopping-cart.netlify.app/) 
 
 ### Built with
 - ReactJS
